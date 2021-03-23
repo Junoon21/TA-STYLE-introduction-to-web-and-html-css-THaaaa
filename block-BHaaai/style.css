@@ -1,0 +1,27 @@
+
+.redd{
+    color: rgb(247, 203, 168);
+    
+    text-align: center;
+}
+.head{color: cornsilk;
+
+}
+#green{color: green;
+
+}
+p{
+    color: rgb(185, 185, 179);
+}
+body{
+    background-color: rgb(51, 51, 138);
+}
+.headd{
+    color: cornsilk;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
